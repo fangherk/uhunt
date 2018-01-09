@@ -1,0 +1,111 @@
+month 1
+amount is 13531.5, owe is 14500.0
+month 2
+amount is 13125.555, owe is 14000.0
+month 3
+amount is 13099.303890000001, owe is 13500.0
+month 4
+amount is 13073.105282220002, owe is 13000.0
+4 months
+month 1
+amount is 9476.240975, owe is 9166.6575
+1 month
+month 1
+amount is 24624.0, owe is 29500.0
+month 2
+amount is 23392.8, owe is 29000.0
+month 3
+amount is 22223.16, owe is 28500.0
+month 4
+amount is 21112.002, owe is 28000.0
+month 5
+amount is 20056.4019, owe is 27500.0
+month 6
+amount is 19053.581805, owe is 27000.0
+month 7
+amount is 18100.902714750002, owe is 26500.0
+month 8
+amount is 17195.857579012503, owe is 26000.0
+month 9
+amount is 16336.064700061877, owe is 25500.0
+month 10
+amount is 15519.261465058784, owe is 25000.0
+month 11
+amount is 14743.298391805845, owe is 24500.0
+month 12
+amount is 14374.715932010698, owe is 24000.0
+month 13
+amount is 14015.34803371043, owe is 23500.0
+month 14
+amount is 13664.96433286767, owe is 23000.0
+month 15
+amount is 13323.340224545978, owe is 22500.0
+month 16
+amount is 12990.256718932329, owe is 22000.0
+month 17
+amount is 12665.50030095902, owe is 21500.0
+month 18
+amount is 12348.862793435044, owe is 21000.0
+month 19
+amount is 12040.141223599168, owe is 20500.0
+month 20
+amount is 11739.137693009188, owe is 20000.0
+month 21
+amount is 11445.659250683959, owe is 19500.0
+month 22
+amount is 11159.51776941686, owe is 19000.0
+month 23
+amount is 10880.529825181438, owe is 18500.0
+month 24
+amount is 10608.516579551902, owe is 18000.0
+month 25
+amount is 10343.303665063106, owe is 17500.0
+month 26
+amount is 10084.721073436527, owe is 17000.0
+month 27
+amount is 9832.603046600614, owe is 16500.0
+month 28
+amount is 9586.787970435598, owe is 16000.0
+month 29
+amount is 9347.118271174708, owe is 15500.0
+month 30
+amount is 9113.44031439534, owe is 15000.0
+month 31
+amount is 8885.604306535457, owe is 14500.0
+month 32
+amount is 8663.46419887207, owe is 14000.0
+month 33
+amount is 8446.877593900268, owe is 13500.0
+month 34
+amount is 8235.705654052761, owe is 13000.0
+month 35
+amount is 8029.813012701442, owe is 12500.0
+month 36
+amount is 7829.067687383906, owe is 12000.0
+month 37
+amount is 7633.340995199308, owe is 11500.0
+month 38
+amount is 7442.507470319325, owe is 11000.0
+month 39
+amount is 7256.444783561342, owe is 10500.0
+month 40
+amount is 7075.033663972308, owe is 10000.0
+month 41
+amount is 6898.157822373, owe is 9500.0
+month 42
+amount is 6725.703876813675, owe is 9000.0
+month 43
+amount is 6557.561279893333, owe is 8500.0
+month 44
+amount is 6393.622247896, owe is 8000.0
+month 45
+amount is 6233.781691698599, owe is 7500.0
+month 46
+amount is 6077.937149406134, owe is 7000.0
+month 47
+amount is 5925.988720670981, owe is 6500.0
+month 48
+amount is 5777.8390026542065, owe is 6000.0
+month 49
+amount is 5633.393027587851, owe is 5500.0
+49 months
