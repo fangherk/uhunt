@@ -7,7 +7,13 @@ if [ $# -eq 0 ]
 elif [ $# -eq 1 ]
    then 
      mkdir $1  # make a directory
-     touch $1/answer.py
+     echo "from sys import stdin 
+
+def main():
+
+
+if __name__ == "__main__":
+    main()" > $1/answer.py
      touch $1/input.txt
 else
      echo "Too many arguments"
